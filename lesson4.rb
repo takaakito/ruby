@@ -1,0 +1,2 @@
+name = "akito"
+puts name
